@@ -67,4 +67,4 @@ MIT License
 
 
 sagun meena
-- [GitHub Repository](https://github.com/CaptJack05/resumeParser)
+- [GitHub Repository](https://github.com/sagun0608/ResumeParser)
