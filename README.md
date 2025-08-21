@@ -65,6 +65,5 @@ MIT License
 
 ## Author
 
-
-sagun meena
+Sagun Meena
 - [GitHub Repository](https://github.com/sagun0608/ResumeParser)
